@@ -11,5 +11,5 @@ Afterwards, use this command to install `OpenMM`:
 
 We also use a range of other packages in this tutorial for analysis purpose,
 you can install them together via:
-`conda install -c conda-forge pandas numpy mdtraj nglview`.
+`conda install -c conda-forge pandas numpy mdtraj nglview pdbfixer`.
 
